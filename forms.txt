@@ -1,0 +1,37 @@
+								Form validation
+
+
+time:
+styling:
+js idea:
+Model:
+	Firstname 
+		-----------
+	Lastname
+		-----------
+	Emailid
+		-----------
+	Date of Birth
+		-----------
+There are four validations mentioned above,want to fill the all coloumns,without filling a single coloumn we cannot move to a another page.
+and finally there is submit option to click and check the validations.
+
+The firstname should contain only alphabetical characters
+The Lastname also should contain only alphabetical characters
+The Emailid should be validate with alphanumeric values(using regrex)
+The Dateofbirth contain DD/MM/YYYY in this form(using date format)
+
+Time:
+Time to create a form:
+  21/01/22
+Time for styling:
+  22/01/2022
+Time for validations:
+  25/01/22
+Styling:
+The styling should be done in CSS ,their background color,background image,styling fonts,width,height 
+
+Javascript idea:
+	To implement oops concepts in javascripts and implement the validations.
+To write a program in a simplest form we are using oops concepts to implement it,Here we are creating a separate classes for easy validations,
+Inside a class we are creating a method constructor for looping and create an objects for methods,and call it html to check validations.
